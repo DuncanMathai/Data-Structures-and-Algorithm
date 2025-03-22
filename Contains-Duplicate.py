@@ -6,6 +6,5 @@ def containsDuplicate(nums):
         seen.add(num)
     return False
 
-# Example usage:
 nums = [1, 2, 3, 1]
-print(containsDuplicate(nums))  # Output: True
+print(containsDuplicate(nums))  
