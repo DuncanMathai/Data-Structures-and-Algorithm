@@ -4,6 +4,5 @@ def singleNumber(nums):
         result ^= num
     return result
 
-# Example usage:
 nums = [4, 1, 2, 1, 2]
-print(singleNumber(nums))  # Output: 4
+print(singleNumber(nums))  
